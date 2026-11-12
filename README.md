@@ -24,7 +24,7 @@ I build AI agents that work *with* people.
 
 | Project | Period | Role | Remarks |
 | :-- | :-- | :-- | :-- |
-| 🧠 **[Telicity](https://telicity.ai)** | `2026.06~now` | **Co-founder · AI Engineer** | AI twin agent system · #1 contributor (3.6K+ commits) |
+| 🧠 **[Telicity](https://telicity.ai)** | `2026.03~now` | **Co-founder · AI Engineer** | AI twin agent system · #1 contributor (3.6K+ commits) |
 | 🏆 **[Mit](https://github.com/boostcampaitech8/pro-nlp-finalproject-nlp-14)** | `2026.01~2026.03` | **Agent orchestration lead** | LangGraph agent · Text2Cypher on Neo4j · SSE streaming · LLM-as-judge |
 | 📝 **[Korean CSAT QA](https://github.com/boostcampaitech8/pro-nlp-generationfornlp-nlp-14)** | `2025.12~2026.01` | **Data & RAG** | Leak-free GroupKFold · option shuffling · Korean-history RAG + reranker |
 | 📚 **[MRC / ODQA](https://github.com/boostcampaitech8/pro-nlp-mrc-nlp-14)** | `2025.12` | **Retrieval** | 🎯 Public EM **75.83** · MeCab BM25 + BGE-M3 hybrid · coverage 77% → 99.97% |
