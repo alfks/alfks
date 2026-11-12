@@ -6,6 +6,8 @@
 
 <p><a href="https://telicity.ai"><img src="https://img.shields.io/badge/Telicity-193E45?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;<a href="https://github.com/boostcampaitech8"><img src="https://img.shields.io/badge/Boostcamp_AI_Tech_8-03C75A?style=for-the-badge&logo=naver&logoColor=white" /></a></p>
 
+<p><b>English</b> &nbsp;|&nbsp; <a href="https://github.com/alfks/alfks/blob/HEAD/README.ko.md">한국어</a></p>
+
 <br/>
 
 ### 👋 사람과 **함께** 일하는 AI 에이전트를 만듭니다
